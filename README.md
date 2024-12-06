@@ -1,2 +1,1 @@
-"# Personal-Projects" 
-"# Personal-Projects" 
+My Personal and School Projects
