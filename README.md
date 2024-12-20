@@ -7,6 +7,8 @@ Tested with Faster-RCNN, YOLOv3, and YOLOv8
 Uses A* for path planning
 Has audio feedback using text-to-speech
 
-
+## Software
+- Python 3.9
+- pyrealsense2 version 2.54.1.5216
 
   
